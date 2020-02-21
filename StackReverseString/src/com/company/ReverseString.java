@@ -9,10 +9,8 @@ package com.company;
 
 public class ReverseString {
     private MyStack S;
-    private String Input;
 
-    public ReverseString(String input){ // constructor
-        setInput(input);
+    public ReverseString(String input){ 
         this.S = new MyStack(input);
         populateStack(input);
     }
@@ -42,16 +40,4 @@ public class ReverseString {
             this.S.push(s);
         }
     }
-
-    private void setInput(String input){
-        //setter
-        this.Input = input;
-    }
-
-    public String getInput(){
-        //getter
-        return this.Input;
-    }
-    
-
 }
