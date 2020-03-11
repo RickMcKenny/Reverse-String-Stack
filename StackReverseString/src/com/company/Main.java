@@ -3,7 +3,7 @@ Name: Rick
 Date: 2020-02-21
 
 A modified second year Data Structures assignment. Reversing a string is a basic programming skill so I thought
-it would be fun to over-complicate the processes using the Stack for fun and practice during my reading week.
+it would be fun to over-complicate the processes using a Stack.
 
  */
 
