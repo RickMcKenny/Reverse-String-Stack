@@ -22,6 +22,5 @@ public class Main {
         s.reverseString();
         scanner.close();
 
-        //TODO: Might include a function to imitate a proper UI and allow repeat reversals. 
     }
 }
